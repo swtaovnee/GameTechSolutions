@@ -14,7 +14,7 @@ Markdown: Syntax
 *   [其它](#misc)
     *   [跳脫字元](#backslash)
     *   [自動連結](#autolink)
-    *   [此项目的参与指南](docs/cardplay.md)
+    *   [cardplay](docs/cardplay.md)
 *   [感謝](#acknowledgement)
 
 **注意：**這份文件是用 Markdown 寫的，你可以[看看它的原始檔][src] 。
