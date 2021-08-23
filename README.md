@@ -1,12 +1,11 @@
 # Gametech情境與系統參考架構
-Markdown: Syntax
 ================
 
 *   [概述](#overview)
     *   [哲學](#philosophy)
     *   [行內 HTML](#html)
     *   [特殊字元自動轉換](#autoescape)
-*   [區段元素](#span)
+*   [真人百家](#span)
     *   [連結](#link)
     *   [強調](#em)
     *   [程式碼](#code)
