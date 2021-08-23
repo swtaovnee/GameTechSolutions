@@ -8,13 +8,12 @@
     *   [架構特性](#Game13)
     *   [AWS服務](#Game14)
     *   [參考架構](#Game15)
-
 *   [老虎機](#Game2)
-    *   [應用說明]
-    *   [架構目標]
-    *   [架構特性]
-    *   [AWS服務]
-    *   [參考架構]
+    *   [應用說明](#Game21)
+    *   [架構目標](#Game22)
+    *   [架構特性](#Game23)
+    *   [AWS服務](#Game24)
+    *   [參考架構](#Game25)
 * * *
 
 <h2 id="overview">概述</h2>
@@ -63,29 +62,29 @@
 * * *
 
 <h2 id="Game2">老虎機</h2>
-<h3>應用說明</h3>
+<h3 id="Game21>應用說明</h3>
 
 
-<h3>架構目標</h3>
+<h3 id="Game22>架構目標</h3>
 
 - 前端網頁表現 Loading 很重
 - 機率表現要 獨立運算
 - 各個遊戲表現差異化大，機皇佔比 80%
 - 
-<h3>架構特性</h3>
+<h3 id="Game23>架構特性</h3>
 
 - 提供超過400種的機型組合，從一般型、運算優化、到HPC高效機型，提供特定前端網頁表現與後台機率運算所需的計算力
 - 依各個遊戲玩家表現，提供自動擴容與自動偵測機制，確保前端系統穩定
 - 搭配CDN服務，加速老虎機前端網頁不論是圖片或是影片的內容派送
 
-<h3>AWS服務</h3>
+<h3 id="Game24>AWS服務</h3>
 
 - [Amazon EC2](https://aws.amazon.com/tw/ec2/instance-types/)
 - [Amazon EBS](https://aws.amazon.com/tw/ebs/volume-types/)
 - [Amazon CloudFront](https://aws.amazon.com/tw/cloudfront/)
 
 
-<h3>參考架構</h3>
+<h3 id="Game25>參考架構</h3>
 
 參考架構
 ![Alt text](Game1.jpg)
