@@ -63,6 +63,7 @@ AWS服務
 <h3 id="Game1">參考架構</h3>
 
 參考架構
+![Alt text](Game1.jpg)
 
 
 * * *
