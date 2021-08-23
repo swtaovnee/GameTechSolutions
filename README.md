@@ -6,10 +6,10 @@
     *   [行內 HTML](#html)
     *   [特殊字元自動轉換](#autoescape)
 *   [真人百家](Game1#)
-    *   [應用說明](#Game1Desc)
-    *   [架構目標](#Game1Target)
-    *   [架構特性](#Game1Features)
-    *   [參考架構](#Game1RefArch)
+    *   [應用說明]
+    *   [架構目標]
+    *   [架構特性]
+    *   [參考架構]
 *   [其它](#misc)
     *   [跳脫字元](#backslash)
     *   [自動連結](#autolink)
@@ -21,8 +21,10 @@
 * * *
 
 <h2 id="overview">概述</h2>
+本文章用來說明目前坊間常見的遊戲類型，並且依照類型的應用情境、架構目標與特性、提供參考架構與相關使用的AWS服務，以供系統管理方便建構與使用。
 
-<h3 id="philosophy">哲學</h3>
+
+<h3 id="Game1">哲學</h3>
 
 Markdown 的目標是實現「易讀易寫」。
 
