@@ -43,13 +43,10 @@
 
 <h3 id="Game1">AWS服務</h3>
 
-[AWS Elemental MediaLive](https://aws.amazon.com/tw/medialive/)
-
-[AWS Elemental MediaPackage](https://aws.amazon.com/tw/mediapackage/)
-
-[Amazon S3](https://aws.amazon.com/tw/s3/)
-
-[Amazon CloudFront](https://aws.amazon.com/tw/cloudfront/)
+- [AWS Elemental MediaLive](https://aws.amazon.com/tw/medialive/)
+- [AWS Elemental MediaPackage](https://aws.amazon.com/tw/mediapackage/)
+- [Amazon S3](https://aws.amazon.com/tw/s3/)
+- [Amazon CloudFront](https://aws.amazon.com/tw/cloudfront/)
 
 
 <h3 id="Game1">參考架構</h3>
