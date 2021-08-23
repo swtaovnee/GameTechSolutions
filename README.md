@@ -5,20 +5,18 @@
     *   [哲學](#philosophy)
     *   [行內 HTML](#html)
     *   [特殊字元自動轉換](#autoescape)
-*   [真人百家](#span)
-    *   [連結](#link)
-    *   [強調](#em)
-    *   [程式碼](#code)
-    *   [圖片](#img)
+*   [真人百家](Game1#)
+    *   [應用說明](#Game1Desc)
+    *   [架構目標](#Game1Target)
+    *   [架構特性](#Game1Features)
+    *   [參考架構](#Game1RefArch)
 *   [其它](#misc)
     *   [跳脫字元](#backslash)
     *   [自動連結](#autolink)
     *   [cardplay](cardplay.md)
 *   [感謝](#acknowledgement)
 
-**注意：**這份文件是用 Markdown 寫的，你可以[看看它的原始檔][src] 。
 
-  [src]: https://github.com/othree/markdown-syntax-zhtw/blob/master/syntax.md
 
 * * *
 
