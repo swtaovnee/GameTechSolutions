@@ -15,21 +15,21 @@
 
 <h3 id="Game12">架構目標</h3>
 
--  前端網頁表現 Loading 很重
--  機率表現要 獨立運算
--  各個遊戲表現差異化大，機皇佔比 80%
+- 能夠自動產生亂數服務
+- 有當地電信商串接
+- 簡訊費用成本需要考量
 
 <h3 id="Game13">架構特性</h3>
 
-- 提供超過400種的機型組合，從一般型、運算優化、到HPC高效機型，提供特定前端網頁表現與後台機率運算所需的計算力
-- 依各個遊戲玩家表現，提供自動擴容與自動偵測機制，確保前端系統穩定
-- 搭配CDN服務，加速老虎機前端網頁不論是圖片或是影片的內容派送
+- 全球一致化的簡訊驗証機制
+- 避免需要和當地電信整合, 直接向 200 多個國家/地區的使用者傳送訊息或通知
+- 使用單一端點為所有平台 ，包括Apple、Android 和其他平台上使用行動推送或電子郵件 (SMTP) 推送行動通知
 
 <h3 id="Game14">AWS服務</h3>
 
-- [Amazon EC2](https://aws.amazon.com/tw/ec2/instance-types/)
-- [Amazon EBS](https://aws.amazon.com/tw/ebs/volume-types/)
-- [Amazon CloudFront](https://aws.amazon.com/tw/cloudfront/)
+- [Amazon Simple Notification Service](https://aws.amazon.com/tw/sns/)
+- [AWS Lambda](https://aws.amazon.com/tw/lambda/)
+
 
 
 <h3 id="Game15">參考架構</h3>
