@@ -30,9 +30,11 @@
 
 <h3 id="Game14">AWS服務</h3>
 
-- [Amazon EC2](https://aws.amazon.com/tw/ec2/instance-types/)
-- [Amazon EBS](https://aws.amazon.com/tw/ebs/volume-types/)
+- [Amazon Interactive Video Service (Amazon IVS)](https://aws.amazon.com/tw/ivs/)
+- [AWS Shield](https://aws.amazon.com/tw/shield/)
+- [AWS WAF](https://aws.amazon.com/tw/waf/)
 - [Amazon CloudFront](https://aws.amazon.com/tw/cloudfront/)
+- [Amazon Route 53](https://aws.amazon.com/tw/route53/)
 
 
 <h3 id="Game15">參考架構</h3>
