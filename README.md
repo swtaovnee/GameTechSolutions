@@ -3,15 +3,15 @@
 
 *   [概述](#overview)
 *   [線上真人百家樂](game1.md)
-*   [老虎機](game2)
-*   [三方金流系統](game3)
-*   [簡訊驗證機](game4)
-*   [金庫系統](game5)
-*   [棋牌系統](game6)
-*   [球版](game7)
-*   [彩票系統](game8)
-*   [包網平台](game9)
-*   [成人直播/點播](game10) 
+*   [老虎機](game2.md)
+*   [三方金流系統](game3.md)
+*   [簡訊驗證機](game4.md)
+*   [金庫系統](game5.md)
+*   [棋牌系統](game6.md)
+*   [球版](game7.md)
+*   [彩票系統](game8.md)
+*   [包網平台](game9.md)
+*   [成人直播/點播](game10.md) 
 * * *
 
 <h2 id="overview">概述</h2>
