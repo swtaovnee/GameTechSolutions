@@ -29,6 +29,7 @@
 
 - [Amazon Simple Notification Service](https://aws.amazon.com/tw/sns/)
 - [AWS Lambda](https://aws.amazon.com/tw/lambda/)
+- [Amazon DynamoDB](https://aws.amazon.com/tw/dynamodb/)
 
 
 
