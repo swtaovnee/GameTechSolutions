@@ -26,12 +26,9 @@
 - 
 <h3 id="Game14">AWS服務</h3>
 
-- [Amazon Relational Database Service (Amazon RDS)](https://aws.amazon.com/tw/rds/)
-- [Amazon Athena](https://aws.amazon.com/tw/athena/)
-- [Amazon S3](https://aws.amazon.com/tw/s3/)
-- [Amazon SageMaker](https://aws.amazon.com/tw/sagemaker/)
-- [Amazon QuickSight](https://aws.amazon.com/tw/quicksight/)
-- [Amazon EMR](https://aws.amazon.com/tw/emr/)
+- [Amazon EC2](https://aws.amazon.com/tw/ec2/instance-types/)
+- [Amazon EBS](https://aws.amazon.com/tw/ebs/volume-types/)
+- [Amazon CloudFront](https://aws.amazon.com/tw/cloudfront/)
 
 <h3 id="Game15">參考架構</h3>
 
