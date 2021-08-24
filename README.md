@@ -11,7 +11,7 @@
 *   [球版](game7.md)
 *   [彩票系統](game8.md)
 *   [包網平台](game9.md)
-*   [成人直播/點播](game10.md) 
+*   [影音直播/點播](game10.md) 
 * * *
 
 <h2 id="overview">概述</h2>
