@@ -38,9 +38,11 @@
 
 <h3 id="Game15">參考架構</h3>
 
-參考架構
-![Alt text](Game8.jpg)
+EC2參考架構
+![Alt text](Game2-1.jpg)
 
+K8S參考架構
+![Alt text](Game2-2.jpg)
 
 * * *
 
